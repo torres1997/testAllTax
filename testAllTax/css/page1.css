@@ -1,0 +1,20 @@
+#menu ul {
+    background-color:#1104be59;
+    list-style:none;
+}
+
+#menu ul li { display: inline; }
+
+#menu ul li p{
+    padding: 10px 10px;
+    display: inline-block;
+    color: #333;
+    text-decoration: none;
+}
+
+#body ul div { 
+    display: inline; 
+}
+#grafico ul canvas{
+    margin: auto;
+}
